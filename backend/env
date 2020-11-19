@@ -1,0 +1,12 @@
+//Criar um arquivo .env e setar as seguintes variáveis:
+
+authSecret = 'código para geração senha'
+
+STORAGE_TYPE = 'local'
+
+AWS_ACCESS_KEY_ID = ''
+AWS_SECRET_ACCESS_KEY = ''
+AWS_DEFAULT_REGION = ''
+
+APP_URL = 'http:seuIp:8000'
+
