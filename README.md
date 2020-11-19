@@ -6,21 +6,22 @@
 </h2>
 
 <p align="center">
-  <a>Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a>Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
   <img alt="design do projeto" width="400px" src="./mobile/src/assets/images/landing.jpg" />
 <p>
 
-## Sobre
+## :book: Sobre
 
 O **HomeDoc** é uma aplicação Mobile feita para auxiliar na conexão entre os médicos e pacientes. Logo, esta aplicação oferece aos pacientes a possibilidade de encontrar médicos para realizar um atendimento domiciliar.
   
 Essa aplicação foi realizada para a disciplina de Projeto de Engenharia.
 
-## Tecnologias
+## :computer: Tecnologias
 
 -  [Typescript](https://www.typescriptlang.org/)
 -  [Node.js](https://nodejs.org/en/)
@@ -29,7 +30,7 @@ Essa aplicação foi realizada para a disciplina de Projeto de Engenharia.
 -  [Express](https://expressjs.com/)
 -  [axios](https://github.com/axios/axios)
 
-## Como Executar
+## :boom: Como Executar
 
 - ### **Pré-requisitos**
 
