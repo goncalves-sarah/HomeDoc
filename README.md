@@ -4,22 +4,22 @@
 </h1>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a>Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a>Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a>Licença</a>
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="./mobile/src/assets/images/landing.jpeg" />
+  <img alt="design do projeto" width="650px" src="./mobile/src/assets/images/landing.jpg" />
 <p>
 
-## :bookmark: Sobre
+## Sobre
 
 O **HomeDoc** é uma aplicação Mobile feita para auxiliar na conexão entre os médicos e pacientes. Logo, esta aplicação oferece aos pacientes a possibilidade de encontrar médicos para realizar um atendimento domiciliar.
   
 Essa aplicação foi realizada para a disciplina de Projeto de Engenharia.
 
-## :rocket: Tecnologias
+## Tecnologias
 
 -  [Typescript](https://www.typescriptlang.org/)
 -  [Node.js](https://nodejs.org/en/)
@@ -28,7 +28,7 @@ Essa aplicação foi realizada para a disciplina de Projeto de Engenharia.
 -  [Express](https://expressjs.com/)
 -  [axios](https://github.com/axios/axios)
 
-## :boom: Como Executar
+## Como Executar
 
 - ### **Pré-requisitos**
 
