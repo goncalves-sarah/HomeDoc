@@ -1,16 +1,17 @@
 <h1 align="center">
     HomeDoc
-    Node.js | React Native
 </h1>
+<h2 align="center">
+    Node.js | React Native
+</h2>
 
 <p align="center">
   <a>Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a>Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a>Licença</a>
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="./mobile/src/assets/images/landing.jpg" />
+  <img alt="design do projeto" width="400px" src="./mobile/src/assets/images/landing.jpg" />
 <p>
 
 ## Sobre
